@@ -26,3 +26,4 @@ jobs:
     - name: Install dependencies
       run: |
         python gitdev.py
+        python FCalculator.py
